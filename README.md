@@ -15,12 +15,12 @@ A pixel-perfect iOS-inspired calculator built with Vanilla JavaScript. This proj
 
 <div align="center">
   <h3>
-    <a href="https://umit8098.github.io/IOS-Calculator/">
-      Demo
+    <a href="https://umitarat-dev.github.io/JS-IOS-Calculator/">
+      🖥️ Live Demo
     </a>
      | 
-    <a href="https://umit8098.github.io/IOS-Calculator/">
-      Project
+    <a href="https://github.com/umitarat-dev/JS-IOS-Calculator.git">
+      📂 Repository
     </a>
  
   </h3>
@@ -40,8 +40,6 @@ A pixel-perfect iOS-inspired calculator built with Vanilla JavaScript. This proj
 <!-- OVERVIEW -->
 
 ## ✨ Overview
-- IOS Calculator
-![screenshot](IOS_Calculator.gif)
 
 <p align="center">
   <a href="https://umitarat-dev.github.io/JS-IOS-Calculator/">
@@ -67,7 +65,7 @@ To clone and run this application, you'll need [Git](https://github.com/Umit8098
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/IOS-Calculator.git
+$ git clone https://github.com/umitarat-dev/JS-IOS-Calculator.git
 
 ```
 
